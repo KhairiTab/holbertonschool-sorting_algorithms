@@ -1,17 +1,28 @@
+#C - Sorting algorithms & Big O  - Holberton School 
+
 0. Bubble sort
+
 Write a function that sorts an array of integers in ascending order using the Bubble sort algorithm
+
 1. Insertion sort
+
 Write a function that sorts a doubly linked list of integers in ascending order using the Insertion sort algorithm
+
 2. Selection sort
+
 Write a function that sorts an array of integers in ascending order using the Selection sort algorithm
+
 3. Quick sort
+
 Write a function that sorts an array of integers in ascending order using the Quick sort algorithm
 
-Authors : 
 
--Rayen Jouini
 
--Khaled Jallouli 
+##Authors : 
 
--Khairi Taboubi
+- Rayen Jouini
+
+- Khaled Jallouli 
+
+- Khairi Taboubi
 
